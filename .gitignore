@@ -1,0 +1,23 @@
+# Novel Writer Skill - Ignored Files
+
+# Runtime data
+*.log
+*.tmp
+.cache/
+
+# Novel content (generated in ~/Novels/, not in repo)
+~/Novels/
+.novel_index/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local config (if any)
+.local.env
